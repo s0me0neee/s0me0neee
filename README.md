@@ -1,6 +1,6 @@
 <p align="center">
   I build small, fast tools for things that annoy me — mostly in <b>Rust</b>, sometimes in <b>TypeScript</b>.<br>
-  Desktop apps with Tauri, CLIs, editor tooling, and a Linux desktop I keep rebuilding from scratch.
+  Desktop apps with Tauri, CLIs and editor tooling.
 </p>
 
 <p align="center">
