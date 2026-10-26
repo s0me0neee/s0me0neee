@@ -23,6 +23,8 @@
 | [**jrun**](https://github.com/s0me0neee/jrun) | Compile and run a single Java file in one command. |
 | [**wallpaper**](https://github.com/s0me0neee/wallpaper) | Lightweight floating wallpaper picker built with Tauri v2. |
 | [**LLC-update-tool**](https://github.com/s0me0neee/LLC-update-tool) | Downloads and installs Limbus Company localization assets into your game directory. |
+| [**AdofaiManiaPreview**](https://github.com/s0me0neee/AdofaiManiaPreview) | ADOFAI mod that shows the loaded level as a live, playable 4K osu!mania chart. |
+| [**quickshell**](https://github.com/s0me0neee/quickshell) | Quickshell setup for Hyprland: a floating glass bar coloured from the wallpaper, with popouts and a media island. |
 
 ---
 
